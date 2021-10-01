@@ -53,16 +53,15 @@
  * @return {number}
  */
 var maxArea = function(height) {
-  let area = 0,left = 0 ,right = height.length-1
-  while (right>= left){
-    const sum = Math.min(height[left],height[right])*(right-left)
-    area = Math.max(sum,area)
+  let area = 0,left = 0,right = height.length-1
+  while (left<=right){
+    let minHeight = Math.min(height[left],height[right])
+    area = Math.max(minHeight*(right-left),area)
     if(height[left]>height[right]){
       right--
-    }else{
+    }else {
       left++
     }
-
   }
   return area
 };
