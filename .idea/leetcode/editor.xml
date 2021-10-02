@@ -21,6 +21,24 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/[16]最接近的三数之和.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[16]最接近的三数之和.md" />
+              <option name="path" value="$PROJECT_DIR$/[16]最接近的三数之和.js" />
+              <option name="questionId" value="16" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/[17]电话号码的字母组合.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[17]电话号码的字母组合.md" />
+              <option name="path" value="$PROJECT_DIR$/[17]电话号码的字母组合.js" />
+              <option name="questionId" value="17" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
