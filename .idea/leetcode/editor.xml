@@ -147,6 +147,24 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/[41]缺失的第一个正数.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[41]缺失的第一个正数.md" />
+              <option name="path" value="$PROJECT_DIR$/[41]缺失的第一个正数.js" />
+              <option name="questionId" value="41" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/[42]接雨水.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[42]接雨水.md" />
+              <option name="path" value="$PROJECT_DIR$/[42]接雨水.js" />
+              <option name="questionId" value="42" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/[64]最小路径和.js">
           <value>
             <LeetcodeEditor>
