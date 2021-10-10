@@ -129,6 +129,24 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/[36]有效的数独.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[36]有效的数独.md" />
+              <option name="path" value="$PROJECT_DIR$/[36]有效的数独.js" />
+              <option name="questionId" value="36" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/[38]外观数列.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[38]外观数列.md" />
+              <option name="path" value="$PROJECT_DIR$/[38]外观数列.js" />
+              <option name="questionId" value="38" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/[64]最小路径和.js">
           <value>
             <LeetcodeEditor>
