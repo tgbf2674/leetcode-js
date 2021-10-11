@@ -40,19 +40,20 @@ var trap = function(height) {
   let l = 0
   let r = height.length-1
   let res =0
-  let lMax = 0
   let rMax = 0
+  let lMax = 0
   while (r>=l){
     if(height[r]>height[l]){
       lMax = Math.max(lMax,height[l])
-      res += lMax - height[l]
+      res += lMax-height[l]
       l++
     }else {
       rMax = Math.max(rMax,height[r])
-      res += rMax - height[r]
+      res += rMax-height[r]
       r--
     }
   }
   return res
 };
 //leetcode submit region end(Prohibit modification and deletion)
+

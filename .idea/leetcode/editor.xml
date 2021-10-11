@@ -165,6 +165,24 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/[44]通配符匹配.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[44]通配符匹配.md" />
+              <option name="path" value="$PROJECT_DIR$/[44]通配符匹配.js" />
+              <option name="questionId" value="44" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/[46]全排列.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[46]全排列.md" />
+              <option name="path" value="$PROJECT_DIR$/[46]全排列.js" />
+              <option name="questionId" value="46" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/[64]最小路径和.js">
           <value>
             <LeetcodeEditor>
