@@ -192,6 +192,15 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/[49]字母异位词分组.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[49]字母异位词分组.md" />
+              <option name="path" value="$PROJECT_DIR$/[49]字母异位词分组.js" />
+              <option name="questionId" value="49" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/[53]最大子序和.js">
           <value>
             <LeetcodeEditor>
