@@ -201,6 +201,15 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/[50]Pow(x, n).js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[50]Pow(x, n).md" />
+              <option name="path" value="$PROJECT_DIR$/[50]Pow(x, n).js" />
+              <option name="questionId" value="50" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/[53]最大子序和.js">
           <value>
             <LeetcodeEditor>
