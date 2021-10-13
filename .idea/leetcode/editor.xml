@@ -228,6 +228,15 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/[55]跳跃游戏.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[55]跳跃游戏.md" />
+              <option name="path" value="$PROJECT_DIR$/[55]跳跃游戏.js" />
+              <option name="questionId" value="55" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/[64]最小路径和.js">
           <value>
             <LeetcodeEditor>
