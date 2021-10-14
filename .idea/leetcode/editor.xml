@@ -246,6 +246,15 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/[62]不同路径.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[62]不同路径.md" />
+              <option name="path" value="$PROJECT_DIR$/[62]不同路径.js" />
+              <option name="questionId" value="62" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/[64]最小路径和.js">
           <value>
             <LeetcodeEditor>
