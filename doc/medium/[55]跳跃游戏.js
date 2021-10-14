@@ -39,12 +39,14 @@
  * @return {boolean}
  */
 var canJump = function(nums) {
-  if(nums.length === 1)return true
   let max = nums[0]
+  if(nums.length === 1)return true
   for (let i = 1;i<nums.length;i++){
-    if(max>= i ){
+    if(max>= i){
       max = Math.max(max,nums[i]+i)
-      if(max>=nums.length-1)return true
+      if(max>=nums.length-1){
+        return true
+      }
     }
   }
   return false
