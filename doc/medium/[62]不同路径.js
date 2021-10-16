@@ -84,12 +84,12 @@ var uniquePaths = function(m, n) {
 
   // 方案3：
   let cur = new Array(n).fill(1)
-  for (let i =1;i<m;i++){
-    for (let j = 1;j<n;j++){
-      cur[j] = cur[j-1]+ cur[j]
+  for (let i =1 ;i<m;i++){
+    for (let j =1;i<n;j++){
+      cur[j] = cur[j-1]+cur[j]
     }
   }
-  return cur[n-1]
 };
 //leetcode submit region end(Prohibit modification and deletion)
+
 

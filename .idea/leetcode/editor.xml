@@ -264,6 +264,15 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/[66]加一.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[66]加一.md" />
+              <option name="path" value="$PROJECT_DIR$/[66]加一.js" />
+              <option name="questionId" value="66" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
