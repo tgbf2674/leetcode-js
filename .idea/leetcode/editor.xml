@@ -291,6 +291,15 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/[73]矩阵置零.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[73]矩阵置零.md" />
+              <option name="path" value="$PROJECT_DIR$/[73]矩阵置零.js" />
+              <option name="questionId" value="73" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
