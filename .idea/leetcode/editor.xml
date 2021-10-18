@@ -300,6 +300,15 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/[75]颜色分类.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[75]颜色分类.md" />
+              <option name="path" value="$PROJECT_DIR$/[75]颜色分类.js" />
+              <option name="questionId" value="75" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/[88]合并两个有序数组.js">
           <value>
             <LeetcodeEditor>
