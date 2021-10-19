@@ -309,6 +309,15 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/[76]最小覆盖子串.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[76]最小覆盖子串.md" />
+              <option name="path" value="$PROJECT_DIR$/[76]最小覆盖子串.js" />
+              <option name="questionId" value="76" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/[88]合并两个有序数组.js">
           <value>
             <LeetcodeEditor>
