@@ -327,6 +327,15 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/[79]单词搜索.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[79]单词搜索.md" />
+              <option name="path" value="$PROJECT_DIR$/[79]单词搜索.js" />
+              <option name="questionId" value="79" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/[88]合并两个有序数组.js">
           <value>
             <LeetcodeEditor>
