@@ -58,34 +58,34 @@ var minWindow = function (s, t) {
   for (let a of t){
     need[a] = (need[a] || 0)+1
   }
-  let l=0,r = 0
-  let start = 0,len = Number.MAX_VALUE
+  let l = 0,r = 0
   let valid = 0
+  let start = 0,len = Number.MAX_VALUE
   while (r<s.length){
     let c = s[r]
     r++
-    if(need[c]){
-      window[c] = (window[c]||0)+1
-      if(need[c] === window[c]){
+    if(need[c]) {
+      window[c] = (window[c] || 0) + 1
+      if (window[c] === need[c]) {
         valid++
       }
     }
     while (valid === Object.keys(need).length){
-      if(r-l<len){
+      if(r-l<len) {
         start = l
-        len = r-l
+        len = r - l
       }
       let d = s[l]
       l++
-      if(need[d]){
-        if(need[d] === window[d]){
+      if(need[d]) {
+        if (window[d] === need[d]) {
           valid--
         }
         window[d]--
       }
     }
   }
-  return len=== Number.MAX_VALUE ? '' : s.substr(start,len)
+  return len === Number.MAX_VALUE ? '' : s.substr(start,len)
 }
 
 //leetcode submit region end(Prohibit modification and deletion)
