@@ -363,6 +363,15 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/[94]二叉树的中序遍历.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[94]二叉树的中序遍历.md" />
+              <option name="path" value="$PROJECT_DIR$/[94]二叉树的中序遍历.js" />
+              <option name="questionId" value="94" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
