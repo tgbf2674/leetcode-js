@@ -372,6 +372,15 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/[98]验证二叉搜索树.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[98]验证二叉搜索树.md" />
+              <option name="path" value="$PROJECT_DIR$/[98]验证二叉搜索树.js" />
+              <option name="questionId" value="98" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
