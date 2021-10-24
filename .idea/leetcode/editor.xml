@@ -48,6 +48,15 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/[108]将有序数组转换为二叉搜索树.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[108]将有序数组转换为二叉搜索树.md" />
+              <option name="path" value="$PROJECT_DIR$/[108]将有序数组转换为二叉搜索树.js" />
+              <option name="questionId" value="108" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/[14]最长公共前缀.js">
           <value>
             <LeetcodeEditor>
