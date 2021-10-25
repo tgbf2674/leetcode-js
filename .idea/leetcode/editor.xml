@@ -57,6 +57,15 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/[116]填充每个节点的下一个右侧节点指针.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[116]填充每个节点的下一个右侧节点指针.md" />
+              <option name="path" value="$PROJECT_DIR$/[116]填充每个节点的下一个右侧节点指针.js" />
+              <option name="questionId" value="116" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/[14]最长公共前缀.js">
           <value>
             <LeetcodeEditor>
