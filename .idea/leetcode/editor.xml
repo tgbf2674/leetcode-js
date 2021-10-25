@@ -75,6 +75,15 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/[121]买卖股票的最佳时机.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[121]买卖股票的最佳时机.md" />
+              <option name="path" value="$PROJECT_DIR$/[121]买卖股票的最佳时机.js" />
+              <option name="questionId" value="121" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/[14]最长公共前缀.js">
           <value>
             <LeetcodeEditor>
