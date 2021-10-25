@@ -93,6 +93,15 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/[124]二叉树中的最大路径和.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[124]二叉树中的最大路径和.md" />
+              <option name="path" value="$PROJECT_DIR$/[124]二叉树中的最大路径和.js" />
+              <option name="questionId" value="124" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/[14]最长公共前缀.js">
           <value>
             <LeetcodeEditor>
