@@ -111,6 +111,15 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/[127]单词接龙.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[127]单词接龙.md" />
+              <option name="path" value="$PROJECT_DIR$/[127]单词接龙.js" />
+              <option name="questionId" value="127" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/[14]最长公共前缀.js">
           <value>
             <LeetcodeEditor>
