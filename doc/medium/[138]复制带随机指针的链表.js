@@ -82,8 +82,8 @@
  */
 var copyRandomList = function(head) {
   if(!head)return head
-  let cur = head
   let map = new Map()
+  let cur = head
   while (cur){
     map.set(cur,new Node(cur.val))
     cur = cur.next
@@ -97,4 +97,3 @@ var copyRandomList = function(head) {
   return map.get(head)
 };
 //leetcode submit region end(Prohibit modification and deletion)
-
