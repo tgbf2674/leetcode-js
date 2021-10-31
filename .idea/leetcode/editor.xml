@@ -192,6 +192,15 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/[141]环形链表.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[141]环形链表.md" />
+              <option name="path" value="$PROJECT_DIR$/[141]环形链表.js" />
+              <option name="questionId" value="141" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/[14]最长公共前缀.js">
           <value>
             <LeetcodeEditor>
