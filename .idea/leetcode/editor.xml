@@ -183,6 +183,15 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/[140]单词拆分 II.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[140]单词拆分 II.md" />
+              <option name="path" value="$PROJECT_DIR$/[140]单词拆分 II.js" />
+              <option name="questionId" value="140" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/[14]最长公共前缀.js">
           <value>
             <LeetcodeEditor>
