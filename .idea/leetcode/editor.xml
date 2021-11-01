@@ -219,12 +219,30 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/[149]直线上最多的点数.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[149]直线上最多的点数.md" />
+              <option name="path" value="$PROJECT_DIR$/[149]直线上最多的点数.js" />
+              <option name="questionId" value="149" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/[14]最长公共前缀.js">
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/doc/content/[14]最长公共前缀.md" />
               <option name="path" value="$PROJECT_DIR$/[14]最长公共前缀.js" />
               <option name="questionId" value="14" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/[150]逆波兰表达式求值.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[150]逆波兰表达式求值.md" />
+              <option name="path" value="$PROJECT_DIR$/[150]逆波兰表达式求值.js" />
+              <option name="questionId" value="150" />
             </LeetcodeEditor>
           </value>
         </entry>
