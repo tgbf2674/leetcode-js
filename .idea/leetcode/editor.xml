@@ -273,6 +273,15 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/[160]相交链表.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[160]相交链表.md" />
+              <option name="path" value="$PROJECT_DIR$/[160]相交链表.js" />
+              <option name="questionId" value="160" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/[16]最接近的三数之和.js">
           <value>
             <LeetcodeEditor>
