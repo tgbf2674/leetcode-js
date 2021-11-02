@@ -327,6 +327,15 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/[172]阶乘后的零.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[172]阶乘后的零.md" />
+              <option name="path" value="$PROJECT_DIR$/[172]阶乘后的零.js" />
+              <option name="questionId" value="172" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/[17]电话号码的字母组合.js">
           <value>
             <LeetcodeEditor>
