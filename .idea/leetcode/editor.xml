@@ -336,6 +336,15 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/[179]最大数.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[179]最大数.md" />
+              <option name="path" value="$PROJECT_DIR$/[179]最大数.js" />
+              <option name="questionId" value="179" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/[17]电话号码的字母组合.js">
           <value>
             <LeetcodeEditor>
