@@ -363,6 +363,24 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/[190]颠倒二进制位.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[190]颠倒二进制位.md" />
+              <option name="path" value="$PROJECT_DIR$/[190]颠倒二进制位.js" />
+              <option name="questionId" value="190" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/[191]位1的个数.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[191]位1的个数.md" />
+              <option name="path" value="$PROJECT_DIR$/[191]位1的个数.js" />
+              <option name="questionId" value="191" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/[19]删除链表的倒数第 N 个结点.js">
           <value>
             <LeetcodeEditor>
