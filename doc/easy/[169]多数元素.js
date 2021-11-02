@@ -51,17 +51,17 @@ var majorityElement = function(nums) {
 //   return sort[Math.floor(len/2)]
 //  投票算法
   let count = 1
-  let majority = nums[0]
-  for (let i =1;i<nums.length;i++){
-    if(count === 0){
-      majority = nums[i]
+  let res = nums[0]
+  for (let i =1 ;i<nums.length;i++){
+    if(count === 0 ){
+      res = nums[i]
     }
-    if(nums[i] === majority){
-      count++
-    }else {
+    if(res !== nums[i]){
       count--
+    }else{
+      count++
     }
   }
-  return majority
+  return res
 };
 //leetcode submit region end(Prohibit modification and deletion)
