@@ -381,6 +381,15 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/[198]打家劫舍.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[198]打家劫舍.md" />
+              <option name="path" value="$PROJECT_DIR$/[198]打家劫舍.js" />
+              <option name="questionId" value="198" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/[19]删除链表的倒数第 N 个结点.js">
           <value>
             <LeetcodeEditor>
