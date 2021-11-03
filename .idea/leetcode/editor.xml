@@ -408,6 +408,15 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/[202]快乐数.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[202]快乐数.md" />
+              <option name="path" value="$PROJECT_DIR$/[202]快乐数.js" />
+              <option name="questionId" value="202" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/[20]有效的括号.js">
           <value>
             <LeetcodeEditor>
