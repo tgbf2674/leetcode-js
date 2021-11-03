@@ -417,6 +417,15 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/[204]计数质数.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[204]计数质数.md" />
+              <option name="path" value="$PROJECT_DIR$/[204]计数质数.js" />
+              <option name="questionId" value="204" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/[20]有效的括号.js">
           <value>
             <LeetcodeEditor>
