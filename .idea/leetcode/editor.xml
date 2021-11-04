@@ -579,12 +579,30 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/[239]滑动窗口最大值.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[239]滑动窗口最大值.md" />
+              <option name="path" value="$PROJECT_DIR$/[239]滑动窗口最大值.js" />
+              <option name="questionId" value="239" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/[23]合并K个升序链表.js">
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/doc/content/[23]合并K个升序链表.md" />
               <option name="path" value="$PROJECT_DIR$/[23]合并K个升序链表.js" />
               <option name="questionId" value="23" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/[268]丢失的数字.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[268]丢失的数字.md" />
+              <option name="path" value="$PROJECT_DIR$/[268]丢失的数字.js" />
+              <option name="questionId" value="268" />
             </LeetcodeEditor>
           </value>
         </entry>
