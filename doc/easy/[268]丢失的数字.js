@@ -65,7 +65,7 @@ var missingNumber = function(nums) {
   // }
   // return nums[nums.length-1]+1
 
-//  求和相减(数学公式法)
+//  求和相减(数学公式法)(时间:O(N),空间:O(1))
   let len = nums.length
   let total = len * (len+1)/2
   return total -nums.reduce((a,b)=>a+b)
