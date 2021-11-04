@@ -552,6 +552,15 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/[236]二叉树的最近公共祖先.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[236]二叉树的最近公共祖先.md" />
+              <option name="path" value="$PROJECT_DIR$/[236]二叉树的最近公共祖先.js" />
+              <option name="questionId" value="236" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/[23]合并K个升序链表.js">
           <value>
             <LeetcodeEditor>
