@@ -561,6 +561,15 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/[237]删除链表中的节点.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[237]删除链表中的节点.md" />
+              <option name="path" value="$PROJECT_DIR$/[237]删除链表中的节点.js" />
+              <option name="questionId" value="237" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/[23]合并K个升序链表.js">
           <value>
             <LeetcodeEditor>
