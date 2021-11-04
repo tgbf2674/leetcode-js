@@ -534,6 +534,15 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/[230]二叉搜索树中第K小的元素.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[230]二叉搜索树中第K小的元素.md" />
+              <option name="path" value="$PROJECT_DIR$/[230]二叉搜索树中第K小的元素.js" />
+              <option name="questionId" value="230" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/[23]合并K个升序链表.js">
           <value>
             <LeetcodeEditor>
