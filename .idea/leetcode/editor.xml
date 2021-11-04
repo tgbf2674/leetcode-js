@@ -444,12 +444,30 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/[208]实现 Trie (前缀树).js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[208]实现 Trie (前缀树).md" />
+              <option name="path" value="$PROJECT_DIR$/[208]实现 Trie (前缀树).js" />
+              <option name="questionId" value="208" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/[20]有效的括号.js">
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/doc/content/[20]有效的括号.md" />
               <option name="path" value="$PROJECT_DIR$/[20]有效的括号.js" />
               <option name="questionId" value="20" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/[210]课程表 II.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[210]课程表 II.md" />
+              <option name="path" value="$PROJECT_DIR$/[210]课程表 II.js" />
+              <option name="questionId" value="210" />
             </LeetcodeEditor>
           </value>
         </entry>
