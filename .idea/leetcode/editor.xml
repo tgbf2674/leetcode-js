@@ -543,6 +543,15 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/[234]回文链表.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[234]回文链表.md" />
+              <option name="path" value="$PROJECT_DIR$/[234]回文链表.js" />
+              <option name="questionId" value="234" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/[23]合并K个升序链表.js">
           <value>
             <LeetcodeEditor>
