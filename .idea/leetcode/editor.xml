@@ -606,6 +606,15 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/[242]有效的字母异位词.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[242]有效的字母异位词.md" />
+              <option name="path" value="$PROJECT_DIR$/[242]有效的字母异位词.js" />
+              <option name="questionId" value="242" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/[268]丢失的数字.js">
           <value>
             <LeetcodeEditor>
