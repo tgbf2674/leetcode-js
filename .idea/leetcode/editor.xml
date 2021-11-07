@@ -633,6 +633,15 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/[279]完全平方数.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[279]完全平方数.md" />
+              <option name="path" value="$PROJECT_DIR$/[279]完全平方数.js" />
+              <option name="questionId" value="279" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/[28]实现 strStr().js">
           <value>
             <LeetcodeEditor>
