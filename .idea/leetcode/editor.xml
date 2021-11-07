@@ -651,6 +651,24 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/[287]寻找重复数.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[287]寻找重复数.md" />
+              <option name="path" value="$PROJECT_DIR$/[287]寻找重复数.js" />
+              <option name="questionId" value="287" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/[289]生命游戏.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[289]生命游戏.md" />
+              <option name="path" value="$PROJECT_DIR$/[289]生命游戏.js" />
+              <option name="questionId" value="289" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/[28]实现 strStr().js">
           <value>
             <LeetcodeEditor>
@@ -666,6 +684,15 @@
               <option name="contentPath" value="$PROJECT_DIR$/doc/content/[29]两数相除.md" />
               <option name="path" value="$PROJECT_DIR$/[29]两数相除.js" />
               <option name="questionId" value="29" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/[326]3的幂.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[326]3的幂.md" />
+              <option name="path" value="$PROJECT_DIR$/[326]3的幂.js" />
+              <option name="questionId" value="326" />
             </LeetcodeEditor>
           </value>
         </entry>
