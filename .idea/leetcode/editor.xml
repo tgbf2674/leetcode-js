@@ -732,12 +732,30 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/[387]字符串中的第一个唯一字符.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[387]字符串中的第一个唯一字符.md" />
+              <option name="path" value="$PROJECT_DIR$/[387]字符串中的第一个唯一字符.js" />
+              <option name="questionId" value="387" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/[38]外观数列.js">
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/doc/content/[38]外观数列.md" />
               <option name="path" value="$PROJECT_DIR$/[38]外观数列.js" />
               <option name="questionId" value="38" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/[412]Fizz Buzz.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[412]Fizz Buzz.md" />
+              <option name="path" value="$PROJECT_DIR$/[412]Fizz Buzz.js" />
+              <option name="questionId" value="412" />
             </LeetcodeEditor>
           </value>
         </entry>
