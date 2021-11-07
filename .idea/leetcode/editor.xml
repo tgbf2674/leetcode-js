@@ -705,6 +705,15 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/[344]反转字符串.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[344]反转字符串.md" />
+              <option name="path" value="$PROJECT_DIR$/[344]反转字符串.js" />
+              <option name="questionId" value="344" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/[34]在排序数组中查找元素的第一个和最后一个位置.js">
           <value>
             <LeetcodeEditor>
