@@ -642,6 +642,15 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/[283]移动零.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[283]移动零.md" />
+              <option name="path" value="$PROJECT_DIR$/[283]移动零.js" />
+              <option name="questionId" value="283" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/[28]实现 strStr().js">
           <value>
             <LeetcodeEditor>
