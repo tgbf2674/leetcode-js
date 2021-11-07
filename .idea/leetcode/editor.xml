@@ -723,6 +723,15 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/[350]两个数组的交集 II.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[350]两个数组的交集 II.md" />
+              <option name="path" value="$PROJECT_DIR$/[350]两个数组的交集 II.js" />
+              <option name="questionId" value="350" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/[36]有效的数独.js">
           <value>
             <LeetcodeEditor>
