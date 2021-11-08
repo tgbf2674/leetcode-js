@@ -56,7 +56,29 @@
  * @param {number[][]} board
  * @return {void} Do not return anything, modify board in-place instead.
  */
-var gameOfLife = function(board) {
-
-};
+var gameOfLife = function (board) {
+  const idx = [0, 1, 0, -1, -1, -1, 1, 1]
+  const jdy = [1, 0, -1, 0, 1, -1, 1, -1]
+  const copyBoard = board.map(ary => [...ary])
+  for (let i = 0; i < copyBoard.length; i++) {
+    for (let j = 0; j < copyBoard[0].length; j++) {
+      let liveAmount = 0
+      for (let index = 0; index < 8; index++) {
+        let x = i + idx[index]
+        let y = j + jdy[index]
+        if (x < 0 || y < 0 || x >= copyBoard.length || y >= copyBoard[0].length) continue
+        liveAmount += copyBoard[x][y] ? 1 : 0
+      }
+      if (liveAmount < 2 || liveAmount > 3) {
+        board[i][j] = 0
+      } else if (liveAmount <= 3 && copyBoard[i][j]) {
+        board[i][j] = 1
+      } else if (liveAmount === 3 && !copyBoard[i][j]) {
+        board[i][j] = 1
+      }
+    }
+  }
+}
 //leetcode submit region end(Prohibit modification and deletion)
+
+
