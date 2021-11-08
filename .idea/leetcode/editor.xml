@@ -876,6 +876,15 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/[454]四数相加 II.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[454]四数相加 II.md" />
+              <option name="path" value="$PROJECT_DIR$/[454]四数相加 II.js" />
+              <option name="questionId" value="454" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/[46]全排列.js">
           <value>
             <LeetcodeEditor>
