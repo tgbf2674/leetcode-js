@@ -52,11 +52,13 @@
  * @return {number}
  */
 var lengthOfLIS = function(nums) {
-  let dp = [1]
-  for (let i =1;i<nums.length;i++){
-    dp[i] = 1
-    for (let j =0;j<i;j++){
-      nums[i]>nums[j] && (dp[i] = Math.max(dp[i],dp[j]+1))
+  // 动态规划
+  let dp = new Array(nums.length).fill(1)
+  for (let i = 0;i<nums.length;i++){
+    for (let j = 0;j<i;j++){
+      if(nums[i]>nums[j]){
+        dp[i] = Math.max(dp[i],dp[j]+1)
+      }
     }
   }
   return Math.max(...dp)

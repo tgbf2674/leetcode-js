@@ -759,6 +759,15 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/[384]打乱数组.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[384]打乱数组.md" />
+              <option name="path" value="$PROJECT_DIR$/[384]打乱数组.js" />
+              <option name="questionId" value="384" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/[387]字符串中的第一个唯一字符.js">
           <value>
             <LeetcodeEditor>
