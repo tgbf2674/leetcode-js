@@ -714,12 +714,30 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/[315]计算右侧小于当前元素的个数.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[315]计算右侧小于当前元素的个数.md" />
+              <option name="path" value="$PROJECT_DIR$/[315]计算右侧小于当前元素的个数.js" />
+              <option name="questionId" value="315" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/[322]零钱兑换.js">
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/doc/content/[322]零钱兑换.md" />
               <option name="path" value="$PROJECT_DIR$/[322]零钱兑换.js" />
               <option name="questionId" value="322" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/[324]摆动排序 II.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[324]摆动排序 II.md" />
+              <option name="path" value="$PROJECT_DIR$/[324]摆动排序 II.js" />
+              <option name="questionId" value="324" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -747,6 +765,15 @@
               <option name="contentPath" value="$PROJECT_DIR$/doc/content/[344]反转字符串.md" />
               <option name="path" value="$PROJECT_DIR$/[344]反转字符串.js" />
               <option name="questionId" value="344" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/[347]前 K 个高频元素.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[347]前 K 个高频元素.md" />
+              <option name="path" value="$PROJECT_DIR$/[347]前 K 个高频元素.js" />
+              <option name="questionId" value="347" />
             </LeetcodeEditor>
           </value>
         </entry>
