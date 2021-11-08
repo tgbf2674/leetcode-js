@@ -750,6 +750,15 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/[328]奇偶链表.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[328]奇偶链表.md" />
+              <option name="path" value="$PROJECT_DIR$/[328]奇偶链表.js" />
+              <option name="questionId" value="328" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/[33]搜索旋转排序数组.js">
           <value>
             <LeetcodeEditor>
@@ -837,6 +846,15 @@
               <option name="contentPath" value="$PROJECT_DIR$/doc/content/[38]外观数列.md" />
               <option name="path" value="$PROJECT_DIR$/[38]外观数列.js" />
               <option name="questionId" value="38" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/[395]至少有 K 个重复字符的最长子串.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[395]至少有 K 个重复字符的最长子串.md" />
+              <option name="path" value="$PROJECT_DIR$/[395]至少有 K 个重复字符的最长子串.js" />
+              <option name="questionId" value="395" />
             </LeetcodeEditor>
           </value>
         </entry>
