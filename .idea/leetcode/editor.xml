@@ -813,6 +813,15 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/[378]有序矩阵中第 K 小的元素.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[378]有序矩阵中第 K 小的元素.md" />
+              <option name="path" value="$PROJECT_DIR$/[378]有序矩阵中第 K 小的元素.js" />
+              <option name="questionId" value="378" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/[380]O(1) 时间插入、删除和获取随机元素.js">
           <value>
             <LeetcodeEditor>
