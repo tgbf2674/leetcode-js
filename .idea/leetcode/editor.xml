@@ -759,12 +759,30 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/[334]递增的三元子序列.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[334]递增的三元子序列.md" />
+              <option name="path" value="$PROJECT_DIR$/[334]递增的三元子序列.js" />
+              <option name="questionId" value="334" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/[33]搜索旋转排序数组.js">
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/doc/content/[33]搜索旋转排序数组.md" />
               <option name="path" value="$PROJECT_DIR$/[33]搜索旋转排序数组.js" />
               <option name="questionId" value="33" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/[341]扁平化嵌套列表迭代器.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[341]扁平化嵌套列表迭代器.md" />
+              <option name="path" value="$PROJECT_DIR$/[341]扁平化嵌套列表迭代器.js" />
+              <option name="questionId" value="341" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -810,6 +828,15 @@
               <option name="contentPath" value="$PROJECT_DIR$/doc/content/[36]有效的数独.md" />
               <option name="path" value="$PROJECT_DIR$/[36]有效的数独.js" />
               <option name="questionId" value="36" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/[371]两整数之和.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[371]两整数之和.md" />
+              <option name="path" value="$PROJECT_DIR$/[371]两整数之和.js" />
+              <option name="questionId" value="371" />
             </LeetcodeEditor>
           </value>
         </entry>
