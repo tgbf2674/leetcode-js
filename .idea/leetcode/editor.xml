@@ -759,6 +759,15 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/[329]矩阵中的最长递增路径.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[329]矩阵中的最长递增路径.md" />
+              <option name="path" value="$PROJECT_DIR$/[329]矩阵中的最长递增路径.js" />
+              <option name="questionId" value="329" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/[334]递增的三元子序列.js">
           <value>
             <LeetcodeEditor>

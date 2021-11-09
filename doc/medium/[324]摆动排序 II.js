@@ -41,6 +41,11 @@
  * @return {void} Do not return anything, modify nums in-place instead.
  */
 var wiggleSort = function(nums) {
-
+  const sort = nums.sort((a,b)=>a-b).slice()
+  let end = nums.length-1,mid = Math.floor((nums.length-1)/2),start = 0
+  for (let i = 0;i<nums.length;i++){
+    nums[start] = i%2 === 0 ? sort[mid--]: sort[end--]
+    start++
+  }
 };
 //leetcode submit region end(Prohibit modification and deletion)
